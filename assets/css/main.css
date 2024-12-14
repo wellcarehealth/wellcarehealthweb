@@ -2866,6 +2866,8 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		flex-wrap: wrap;
+    		justify-content: center;
 		width: 100%;
 		margin: 0 0 3em 0;
 		padding: 0;
